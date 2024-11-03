@@ -75,5 +75,8 @@ Thank you for visiting my profile! Feel free to explore my projects, and let's c
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kinjalsingh&color=blue&style=flat-square)
 
+<!-- Adding a gradient background image -->
+![Gradient Background](https://img.freepik.com/free-vector/blue-pink-halftone-background_53876-99004.jpg)
+
 
 
