@@ -56,7 +56,10 @@ I'm a Computer Science enthusiast who loves building meaningful projects and tac
 - Completed **20+** DSA Challenges
 - **75%** achievement in CodeChef Online Coding Contests
 
----
+  <!-- Adding animated GIFs -->
+![Animated Banner](https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif) <!-- Example GIF -->
+![Coding Animation](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg) <!-- Example GIF -->
+
 
 ## 📫 Connect with Me
 
@@ -72,7 +75,5 @@ Thank you for visiting my profile! Feel free to explore my projects, and let's c
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kinjalsingh&color=blue&style=flat-square)
 
-<!-- Adding animated GIFs -->
-![Animated Banner](https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif) <!-- Example GIF -->
-![Coding Animation](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg) <!-- Example GIF -->
+
 
