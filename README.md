@@ -1,4 +1,4 @@
-![Background Image](https://www.crio.do/blog/content/images/2020/09/Sep_01.png)
+![Background Image](https://raw.githubusercontent.com/kinjalllsingh/DSA-/refs/heads/main/2f08497f-9ad7-4fb7-994c-a52108f1fa80.jpg)
  
 # 👋 Hello, I'm Kinjal Singh!
 
