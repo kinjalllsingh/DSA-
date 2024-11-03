@@ -1,4 +1,4 @@
-![Background Image](https://raw.githubusercontent.com/kinjalllsingh/DSA-/refs/heads/main/2f08497f-9ad7-4fb7-994c-a52108f1fa80.jpg)
+![Background Image](https://raw.githubusercontent.com/kinjalllsingh/DSA-/refs/heads/main/WhatsApp%20Image%202024-11-03%20at%2021.10.20_0156b7d1%20mai%20hoon.jpg)
 
 # 👋 Hello, I'm Kinjal Singh!
 
