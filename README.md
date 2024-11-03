@@ -1,3 +1,5 @@
+![Background Image](https://www.crio.do/blog/content/images/2020/09/Sep_01.png)
+ 
 # 👋 Hello, I'm Kinjal Singh!
 
 Welcome to my portfolio! I'm a **Computer Science Engineering** student with a specialization in **Computer Networking** at SRM Institute of Science and Technology, Chennai. I have a strong foundation in **Data Structures and Algorithms (DSA)** and a passion for **Web Development** and **Problem-Solving**. I'm driven by creating impactful projects and exploring advanced topics in Computer Networking.
