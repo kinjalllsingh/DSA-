@@ -1,5 +1,5 @@
 ![Background Image](https://raw.githubusercontent.com/kinjalllsingh/DSA-/refs/heads/main/2f08497f-9ad7-4fb7-994c-a52108f1fa80.jpg)
- 
+
 # 👋 Hello, I'm Kinjal Singh!
 
 Welcome to my portfolio! I'm a **Computer Science Engineering** student with a specialization in **Computer Networking** at SRM Institute of Science and Technology, Chennai. I have a strong foundation in **Data Structures and Algorithms (DSA)** and a passion for **Web Development** and **Problem-Solving**. I'm driven by creating impactful projects and exploring advanced topics in Computer Networking.
@@ -15,7 +15,12 @@ Welcome to my portfolio! I'm a **Computer Science Engineering** student with a s
 ## 💡 About Me
 I'm a Computer Science enthusiast who loves building meaningful projects and tackling challenging problems. My expertise spans from core DSA concepts to web development, and I enjoy learning new technologies and tools to expand my skill set.
 
----
+<div style="float: right; margin-left: 20px;">
+    <img src="https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science.png" alt="Project Image" width="100" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzHj7GOESgz9tO60R67f9dsjSzI80kcdKmzcx_Xy-GyzzPLISLA2-S4dnTjINMmr3my0&usqp=CAU" alt="Image 2" width="100" />
+    <img src="https://blogassets.leverageedu.com/blog/wp-content/uploads/2019/12/23173711/Computer-Science-Engineering.png" alt="Image 3" width="100" />
+  <img src="https://shimpikumari.netlify.app/coding_challenge.png" alt="Image 4" width="100" />
+</div>
 
 ## 🛠 Skills
 
@@ -66,3 +71,8 @@ Thank you for visiting my profile! Feel free to explore my projects, and let's c
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kinjalsingh&color=blue&style=flat-square)
+
+<!-- Adding animated GIFs -->
+![Animated Banner](https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif) <!-- Example GIF -->
+![Coding Animation](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg) <!-- Example GIF -->
+
